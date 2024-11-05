@@ -13,8 +13,12 @@ struct informacoesProduto {
 };
 
 vector<informacoesProduto> carregarDados(int opcaoDesejada);
-
-
+void bubbleSort(vector<informacoesProduto> produtos);
+void inserctionSort(vector<informacoesProduto> produtos);
+void selectionSort(vector<informacoesProduto> produtos);
+void coutingSort(vector<informacoesProduto> produtos);
+void shellSort(vector<informacoesProduto> produtos);
+void quickSort(vector<informacoesProduto> produtos);
 
 int main() {
     int opcao = 0;
