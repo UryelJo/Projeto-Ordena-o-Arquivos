@@ -1,0 +1,24 @@
+Faça uma pesquisa sobre os seguintes métodos de classificação de dados: Bolha, Inserção, Seleção, Contagem, Shell e Quicksort
+Considere que uma loja online está lidando com um grande volume de vendas de diferentes produtos, e o gestor da loja quer organizar os registros para analisar o desempenho dos produtos com base em suas vendas. Você foi contratado para desenvolver um algoritmo que organize esses registros de vendas para facilitar a análise.
+
+Descrição do Problema:
+Você deverá considerar um arquivo sequencial contendo registros de vendas de diversos produtos ao longo de um mês. Cada registro contém as seguintes informações:
+
+- Nome do produto
+- Quantidade vendida
+- Preço unitário
+- Data da venda (DD/MM/AAAA)
+
+Seu objetivo é ordenar esses registros de acordo com critérios que o gestor definiu para facilitar a análise. Os critérios são os seguintes:
+
+1. Ordenar os produtos pelo preço unitário (do maior para o menor).
+2. Simular a ordenação para três cenários diferentes:
+2.1. Arquivo com 1000 registros
+2.2. Arquivo com 100.000 registros
+2.3. Arquivo com 1.000.000 registros
+OBS: gerar os registros aleatoriamente
+
+Tarefas:
+1. Implementar em C++ a ordenação para cada um dos métodos de classificação: Bolha, Inserção, Seleção, Contagem, Shell e Quicksort.
+2. Analisar o tempo de execução de cada método para cada conjunto dos três cenários descritos acima.
+3. Comparar a eficiência de cada método, demonstrando graficamente os resultados obtidos para cada cenário.
