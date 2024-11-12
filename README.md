@@ -34,5 +34,20 @@ struct informacoesProduto {
 };
 ```
 <br></br>
-<h3>E por fim os tempos de execução de cada um dos algoritmos de ordenação que trabalharam para ordenar em ordem crescente: </h3>
+<h3>E por fim os tempos de execução de cada um dos algoritmos de ordenação, juntamente com seus respectivos graficos, que trabalharam para ordenar em ordem crescente: </h3>
+<div align="center">
+  <img src="Imagens/tabelaDeTempo.png">
+  <h2>Grafico para 1.000 registros</h2>
+  <img src="Imagens/grafico1000Registros.png">
+  <br></br>
+  <h2>Grafico para 100.000 registros</h2>
+  <img src="Imagens/grafico100000Registros.png">
+  <br></br>
+  <h2>Grafico para 1.000.000 registros</h2>
+  <img src="Imagens/grafico1000000Registros.png">
+
+  <h2>Considerações Finais</h2>
+  <p>De acordo com todos os testes realizados podemos chegar a conclusão de que quando estamos trabalhando com uma base de dados gigante, algoritmos como o Couting, Quick e Shell sort caem muito bem e tem um ótimo desempenho. Se tratando de base de dados menores temos fortes indicados como Selection, Quick e Shell sort com os mehlores desempenhos.</p>
+</div>
+
 
