@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎲Algoritmos de ordenação🛠️</h1>
+  <h1>🧩Algoritmos de ordenação🛠️</h1>
   <p> Esse trabalho tem como objetivo estudar diversos algoritmos de ordenação, e então coloca-los em prática para comparar a eficiencia de cada um deles por meio de uma base de dados ficticia.</p> <br></br>
  
   <h3>💻Algoritmos pesquisados no trabalho📝</h3>
@@ -23,7 +23,7 @@
 * **Quick Sort**
   * Descricao: Algoritmo de divisão e conquista que seleciona um pivô e particiona a lista em duas sublistas, uma com elementos menores que o pivô e outra com elementos maiores. Recursivamente aplica o mesmo processo às sublistas.
 <br></br>
-<h3 align="center">Estrutura de dados utilizada para esse trabalho:</h3>
+<h3 align="center">🎲Estrutura de dados utilizada para esse trabalho🎲</h3>
 
 ```cpp
 struct informacoesProduto {
